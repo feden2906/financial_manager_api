@@ -1,0 +1,5 @@
+/node_modules
+/dist
+/pgdata_local
+/pgdata_bata
+/pgdata_prod
